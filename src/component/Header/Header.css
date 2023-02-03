@@ -1,0 +1,39 @@
+img {
+    width: 75px;
+}
+
+.navbar {
+    height: 75px;
+    background: #845EC2;
+}
+
+.btn-login {
+    background: #845EC2;
+}
+
+.btn-login:hover {
+    background: #845EC2;
+}
+
+.btn-register {
+    color: #845EC2;
+}
+
+.btn-register:hover {
+    color: #845EC2;
+}
+
+.nav-member {
+    background: #E6DFF3;
+}
+
+.btn-member {
+    background-color: #472E71;
+    padding-inline: 10px;
+    margin-inline: 10px;
+    border-radius: 5px;
+}
+
+.btn-member ul li {
+    text-decoration: none;
+}

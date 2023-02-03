@@ -1,18 +1,18 @@
 import { Link } from 'react-router-dom';
 import "bootswatch/dist/materia/bootstrap.min.css";
+import './Footer.css';
 
 const Footer = () => {
     const link = 'test';
 
     return (
         <footer>
-        <div className='footer'>
+        <div>
             <div className="social-media d-flex flex-wrap justify-content-between align-items-center py-3 mb-4">
                 <div className="col-md-4 d-flex align-items-center mx-3">
                     <h3 className='mx-3 text-white'>Get connected with us on social networks:</h3>
                 </div>
             </div>
-
 
 
             <div className="footer">
