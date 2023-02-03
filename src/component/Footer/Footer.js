@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import './Footer.css'
+import "bootswatch/dist/materia/bootstrap.min.css";
 
 const Footer = () => {
     const link = 'test';
@@ -12,6 +12,7 @@ const Footer = () => {
                     <h3 className='mx-3 text-white'>Get connected with us on social networks:</h3>
                 </div>
             </div>
+
 
 
             <div className="footer">
